@@ -2,7 +2,7 @@
 
 Dedicated and friendly Software Developer with a huge interest of data and intelligent computing. Skilled in Web Developing, Database Management, Data Preparation and Analyzing, Machine Learning, and Natural Language Processing. Experienced computer lab assistant in Basic and Object Oriented Programming, Database Systems, Algorithms and Data Structures, and Operating Systems.
 
-- 🔭 I’m currently working on PT CGS International Sekuritas Indonesia
+- 🔭 I’m currently working aas Software Developer at PT CGS International Sekuritas Indonesia
 <!-- - 🌱 I’m currently learning Machine Learning on Bangkit Academy 2023 -->
 - 👯 I’m looking to collaborate on web development, data analytics, and machine learning projects or research.
 <!-- - 🤔 I’m looking for help with ... -->
