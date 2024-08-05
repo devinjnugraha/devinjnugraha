@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Dedicated and friendly IT student with a huge interest of data and intelligent computing. Skilled in Web Developing, Database Management, Data Preparation and Analyzing, Machine Learning, and Natural Language Processing. Experienced computer lab assistant in Basic and Object Oriented Programming, Database Systems, Algorithms and Data Structures, and Operating Systems. Also experienced as a master of ceremonies (MC), moderator, and volunteering various events.
+Dedicated and friendly Software Developer with a huge interest of data and intelligent computing. Skilled in Web Developing, Database Management, Data Preparation and Analyzing, Machine Learning, and Natural Language Processing. Experienced computer lab assistant in Basic and Object Oriented Programming, Database Systems, Algorithms and Data Structures, and Operating Systems.
 
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Machine Learning on Bangkit Academy 2023
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 🔭 I’m currently working on PT CGS International Sekuritas Indonesia
+<!-- - 🌱 I’m currently learning Machine Learning on Bangkit Academy 2023 -->
+- 👯 I’m looking to collaborate on web development, data analytics, and machine learning projects or research.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
